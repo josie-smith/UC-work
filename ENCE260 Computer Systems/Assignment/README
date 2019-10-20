@@ -1,4 +1,8 @@
-Author: Josie Smith (jcs162) and Yu Wen (ywe39)
+Author: Josie Smith (jcs162)
+This game is written to be run on the UC Fun Kit, which uses the ATMega32U2 
+microcontroller. Also, it relies on many files in the ence260 library - the 
+Makefile will not work as is, the folder needs to be pulled into the correct 
+location within the ence260 folder structure.
 
 
 PONG
