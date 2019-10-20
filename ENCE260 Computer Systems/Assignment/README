@@ -1,0 +1,22 @@
+Author: Josie Smith (jcs162) and Yu Wen (ywe39)
+
+
+PONG
+
+
+Description:
+
+2 player game where each player controlls a paddle, and bounce a ball back and
+forth between them. If a paddle misses the ball then the other player gets a
+point. First to 11 points wins.
+
+
+How to play:
+
+Move the directional pad left and right to move the paddle.
+To start, press the navigation pad in to make the ball appear, then again to
+fire.
+Once a player reaches 11 points the scores will appear - press the navigational
+pad again to reset the game.
+At any point while playing you can press button 1 to pause and show the score
+for each player. Pressing the button again will unpause.
